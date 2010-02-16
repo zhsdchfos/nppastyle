@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NppAStyle", "NppAStyle\NppAStyle.vcproj", "{6AFA08A2-02DC-40AC-B153-28D3E66243D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF35D931-46BB-48CD-BDF2-19A10492CAC7} = {AF35D931-46BB-48CD-BDF2-19A10492CAC7}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AStyleLib", "AStyleLib\AStyleLib.vcproj", "{AF35D931-46BB-48CD-BDF2-19A10492CAC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AnsiRelease|Win32 = AnsiRelease|Win32
+		UnicodeRelease|Win32 = UnicodeRelease|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFA08A2-02DC-40AC-B153-28D3E66243D2}.AnsiRelease|Win32.ActiveCfg = AnsiRelease|Win32
+		{6AFA08A2-02DC-40AC-B153-28D3E66243D2}.AnsiRelease|Win32.Build.0 = AnsiRelease|Win32
+		{6AFA08A2-02DC-40AC-B153-28D3E66243D2}.UnicodeRelease|Win32.ActiveCfg = UnicodeRelease|Win32
+		{6AFA08A2-02DC-40AC-B153-28D3E66243D2}.UnicodeRelease|Win32.Build.0 = UnicodeRelease|Win32
+		{AF35D931-46BB-48CD-BDF2-19A10492CAC7}.AnsiRelease|Win32.ActiveCfg = AnsiRelease|Win32
+		{AF35D931-46BB-48CD-BDF2-19A10492CAC7}.AnsiRelease|Win32.Build.0 = AnsiRelease|Win32
+		{AF35D931-46BB-48CD-BDF2-19A10492CAC7}.UnicodeRelease|Win32.ActiveCfg = AnsiRelease|Win32
+		{AF35D931-46BB-48CD-BDF2-19A10492CAC7}.UnicodeRelease|Win32.Build.0 = AnsiRelease|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
