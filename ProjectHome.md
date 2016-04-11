@@ -1,0 +1,1 @@
+It's a plugin for notepad++, formatting your code in npp with Artistic Style.
